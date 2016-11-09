@@ -1,5 +1,5 @@
 package rpa
-
+//Controller
 class GrupoPesquisadoresController {
     def index() {redirect(action: "list", params: params) }
 
